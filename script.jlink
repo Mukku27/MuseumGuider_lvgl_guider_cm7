@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\VLSID\Documents\MCUXpressoIDE_11.9.0_2144\workspace\MuseumGuider_lvgl_guider_cm7\Debug\MuseumGuider_lvgl_guider_cm7.hex"
+qc
+
+qc
