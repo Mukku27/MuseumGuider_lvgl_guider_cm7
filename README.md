@@ -132,8 +132,8 @@ This project integrates various modern technologies, leveraging the expertise ga
 ---
 
 ## videos
-![Museum Guider Bot Demo](https://youtu.be/dNoNeGquE5Q)
-![Museum Guider Bot Prototype](https://youtu.be/xJNlu5OCHJI)
+(https://youtu.be/dNoNeGquE5Q)
+(https://youtu.be/xJNlu5OCHJI)
 
 
 ---
