@@ -132,8 +132,9 @@ This project integrates various modern technologies, leveraging the expertise ga
 ---
 
 ## videos
-(https://youtu.be/dNoNeGquE5Q)
-(https://youtu.be/xJNlu5OCHJI)
+-[Explanation](https://youtu.be/dNoNeGquE5Q)
+
+-[Demonstartion](https://youtu.be/xJNlu5OCHJI)
 
 
 ---
